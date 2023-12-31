@@ -1,0 +1,10 @@
+img {
+  width: 100%;
+}
+
+.tag {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 2%;
+}
