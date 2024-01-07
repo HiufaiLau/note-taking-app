@@ -1,2 +1,3 @@
-# Note-taking-app with React + TypeScript + Vite
+# Note-Taking-App 
+### with React + TypeScript + Vite
 Live demo: https://simple-markdown-note-taking.vercel.app/
